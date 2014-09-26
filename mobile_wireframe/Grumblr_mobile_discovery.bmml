@@ -1,0 +1,40 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="724" measuredH="916" mockupW="616" mockupH="916">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPad" x="108" y="0" w="-1" h="-1" measuredW="616" measuredH="916" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::ButtonBar" x="150" y="760" w="532" h="58" measuredW="368" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>1</selectedIndex>
+        <text>Homepage%2C%20Search%2C%20Write%20Post%2C%20Profile%2C%20Setting</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::HRule" x="158" y="178" w="516" h="-1" measuredW="100" measuredH="10" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::IconLabel" x="170" y="232" w="-1" h="-1" measuredW="128" measuredH="143" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>EmoticonIcon%7Cxxlarge</icon>
+        <text>Sherry</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::TextArea" x="308" y="232" w="366" h="198" measuredW="200" measuredH="140" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>I%27m%20so%20happy%20now%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::HRule" x="158" y="461" w="516" h="-1" measuredW="100" measuredH="10" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::SearchBox" x="185" y="128" w="462" h="-1" measuredW="120" measuredH="25" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Search%20Grumblr</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::IconLabel" x="164" y="504" w="-1" h="-1" measuredW="128" measuredH="143" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>EmoticonIcon%7Cxxlarge</icon>
+        <text>Haodong</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::TextArea" x="302" y="504" w="366" h="198" measuredW="200" measuredH="140" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Learning%20Swift%20and%20iOS%20programming%21</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
