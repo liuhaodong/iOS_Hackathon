@@ -1,8 +1,8 @@
 <mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="724" measuredH="916" mockupW="616" mockupH="916">
   <controls>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::ButtonBar" x="150" y="760" w="532" h="58" measuredW="300" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::ButtonBar" x="150" y="760" w="532" h="58" measuredW="368" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Homepage%2C%20Search%2C%20Write%20Post%2C%20Profile</text>
+        <text>Homepage%2C%20Search%2C%20Write%20Post%2C%20Profile%2C%20Setting</text>
       </controlProperties>
     </control>
     <control controlID="5" controlTypeID="com.balsamiq.mockups::iPad" x="108" y="0" w="-1" h="-1" measuredW="616" measuredH="916" zOrder="0" locked="false" isInGroup="-1"/>
